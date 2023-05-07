@@ -1,6 +1,7 @@
 body {
     background-image: url('img.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     font-family: 'Open Sans', sans-serif;
     color: #ffffff;
     text-align: center;
